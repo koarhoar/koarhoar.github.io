@@ -6,7 +6,7 @@ baseURL = "https://koarhoar.github.io"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "tutela"
+title = "tute.la"
 author = "Kåre Hansen"
 copyright = "Copyright © 2026, Kåre Hansen."
 languageCode = "en-US"
